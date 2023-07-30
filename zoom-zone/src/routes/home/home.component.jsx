@@ -30,7 +30,7 @@ const Home = () => {
       id: 5,
       title: "Disposable  Cameras",
       imageUrl:
-        "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1205213604.jpg?crop=1.00xw:0.334xh;0,0.0501xh&resize=1200:*",
+        "https://static.independent.co.uk/2022/09/06/07/GettyImages-1421071670.jpg",
     },
   ];
   return <Directory categories={categories} />;
