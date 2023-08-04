@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Canon AE-1",
+    "imageUrl": "https://www.culturedkiwi.com/wp-content/uploads/2019/01/2019-02-01-ben-kepka-cultured-kiwi-canon-AE1.jpg",
+    "price": 260
+  },
+  {
+    "id": 2,
+    "name": "Pentax K1000",
+    "imageUrl": "https://www.culturedkiwi.com/wp-content/uploads/2015/10/img-26.jpg",
+    "price": 155
+  },
+  {
+    "id": 3,
+    "name": "Nikon FE/FM",
+    "imageUrl": "https://www.culturedkiwi.com/wp-content/uploads/2015/10/img-27.jpg",
+    "price": 255
+  },
+  {
+    "id": 4,
+    "name": "Olympus OM-1",
+    "imageUrl": "https://www.culturedkiwi.com/wp-content/uploads/2015/10/img-28.jpg",
+    "price": 200
+  },
+  {
+    "id": 5,
+    "name": "Canon EOS A2 / A2E",
+    "imageUrl": "https://www.culturedkiwi.com/wp-content/uploads/2019/01/2019-02-01-ben-kepka-cultured-kiwi-canon-A2.jpg",
+    "price": 250
+  },
+  {
+    "id": 6,
+    "name": "Contax G1",
+    "imageUrl": "https://www.culturedkiwi.com/wp-content/uploads/2019/01/2019-02-01-ben-kepka-cultured-kiwi-Contax-g1-1024x684.jpg",
+    "price": 700
+  },
+  {
+    "id": 7,
+    "name": "Olympus MJU-II",
+    "imageUrl": "https://www.culturedkiwi.com/wp-content/uploads/2019/10/Olympus-MJU-II.jpg",
+    "price": 192
+  },
+  {
+    "id": 8,
+    "name": "Nikon 35/28 Ti",
+    "imageUrl": "https://www.culturedkiwi.com/wp-content/uploads/2019/01/nikon-35.jpg",
+    "price": 900
+  },
+  {
+    "id": 9,
+    "name": "Contax T2",
+    "imageUrl": "https://www.culturedkiwi.com/wp-content/uploads/2019/10/Contax-T2.jpg",
+    "price": 999
+  }
+]
